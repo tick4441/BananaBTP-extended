@@ -12,3 +12,5 @@ Features:
 - Ambience and music for a cool cat experience
 - splash screen!
 - And more!
+
+coded by bbtp himself! ;)
